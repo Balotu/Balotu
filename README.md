@@ -13,7 +13,7 @@ Hi, I'm Aham Iberi, a passionate **DevOps Engineer** with a focus on **automatio
 ## Projects
 - [Automated CI/CD Pipeline with GitHub Actions](https://github.com/Balotu/CICD-Deployment): A fully automated CI/CD pipeline to streamline deployment processes for various projects.
 - [AWS Infrastructure as Code](https://github.com/Balotu/Automated-Infra-Terraform-CICD): terraform scripts to automate the provisioning and management of AWS resources.
-- [Microservice Deployment](https://github.com/Balotu/Automated-microservice-deployment): A project demonstrating how to deploy web applications with Docker containers and Nginx.
+- [Microservice Deployment](https://github.com/Balotu/Automated-microservice-deployment): A project demonstrating how to deploy microservice with Kubernetes (Helm, ArgoCD).
 
 ## Contact Me
 Feel free to reach out to me via:
